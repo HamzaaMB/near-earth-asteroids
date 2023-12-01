@@ -1,0 +1,8 @@
+.navigation_container {
+    background: #17171b;
+    height: 90px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
